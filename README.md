@@ -1,6 +1,6 @@
 # PROJECT
 
-This is a Web Application developed with PHP and MySQL. It helps you to track garbage recycling days and their respective collection times.
+R&G is a Web Application developed with PHP and MySQL. It helps you to track garbage recycling days and their respective collection times.
 
 **Edit connect.php file with your credentials**
 
