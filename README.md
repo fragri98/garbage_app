@@ -18,8 +18,8 @@ PROJECT ROOT
 │   └── style.css: style for the page.
 └── users.php: display all the records on the browser. It is possible to delete or edit the row selected by the user.
 ```
-![Alt text](screenshot/main_page.png?raw=true "index.php page")
-![Alt text](screenshot/add_page.png?raw=true "insert.php page")
+![Alt text](screenshot/main_page.jpg?raw=true "index.php page")
+![Alt text](screenshot/add_page.jpg?raw=true "insert.php page")
 
 
 
